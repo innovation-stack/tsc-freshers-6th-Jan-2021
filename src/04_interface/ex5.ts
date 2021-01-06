@@ -25,6 +25,6 @@ const todo: Todo = {
 };
 
 todo.print();
-todo.printAMessage('Hello from Mars');
+todo.printAMessage('Hello and from Mars');
 
 export default null;
